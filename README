@@ -1,0 +1,1 @@
+make KERNELRELEASE=2.6.32-5-amd64 -C /lib/modules/2.6.32-5-amd64/build M=/usr/src/kpanic-1.0
